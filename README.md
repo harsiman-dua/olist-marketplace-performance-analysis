@@ -21,7 +21,6 @@ This project analyzes marketplace performance across orders, products, sellers, 
 
 - MySQL
 - Power BI
-- Excel
 
 ## Data Used
 
